@@ -1,7 +1,7 @@
-class Employee{
+class Employee2{
 	float salary=40000;
 }
-public class Programmer extends Employee {
+public class Programmer extends Employee2 {
 	int bonus=10000;
 	public static void main(String[] args) {
 		Programmer obj= new Programmer();
